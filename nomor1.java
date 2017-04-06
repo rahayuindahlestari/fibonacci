@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Update data modifikasi
 
 public class nomor1 {
 
@@ -19,7 +20,6 @@ public class nomor1 {
          
          System.out.print(C+", ");
         }
-        
         
     }
     
